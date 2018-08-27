@@ -45,7 +45,7 @@ The css will stored into public/css/
 
 ## Authors
 
-* **Haidi Nurhadinata** - *Initial work* - [Abd Hannan](https://github.com/haidi20)
+* **Haidi Nurhadinata** - *Initial work* - [haidi20](https://github.com/haidi20)
 
 
 
