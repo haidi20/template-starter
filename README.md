@@ -7,47 +7,45 @@ This template starter for you who work with PSD slicing, the directory already i
 
 ### Prerequisites
 You need this installed on your computer
-* [NPM](https://npm.org)
-* [GULP](https://gulpjs.com)
+* [yarn](https://yarnpkg.com/en/)
+* [laravel-mix](https://github.com/JeffreyWay/laravel-mix/blob/master/docs/installation.md)
 
 ### Installing
 
 Clone this repo, open terminal or CMD and place to the right directory and run the following command.
 
 ```
-npm install
-```
+yarn init
 
-Make sure all package installed include gulp, if not do this command:
-```
-npm install -g gulp
+yarn install
+
 ```
 
 If you failed install all package automatically, please install one by one using npm.
 
 ### Running the tests
 
-This starter-template included gulp-sass, to compile sass (.scss file) to .css file, run the following command:
+This starter-template included laravel-mix, to compile sass (.scss file) to .css file, run the following command:
 
-To wacth changes and run automatically
+To wacth changes and run automatically. but di browser keep refresh
 ```
-gulp watch
+yarn watch
 ```
 
 Run manually
 ```
-gulp process-css
+yarn run dev
 ```
 The file created:
-* main.css
-* main.min.css
-* main.min.css.map
+* app.css
+* app.js
+* main.js
 
-The css will stored into assets/css/
+The css will stored into public/css/
 
 ## Authors
 
-* **Abd Hannan** - *Initial work* - [Abd Hannan](https://github.com/abdhannan)
+* **Haidi Nurhadinata** - *Initial work* - [Abd Hannan](https://github.com/haidi20)
 
 
 
@@ -57,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 # Have fun :)
-Dibuat dengan cinta dari Madura, Indonesia :) 
+Dibuat dengan cinta dari Madura, Indonesia :)
