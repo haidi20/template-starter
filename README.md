@@ -52,7 +52,3 @@ The css will stored into public/css/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-# Have fun :)
-Dibuat dengan cinta dari Madura, Indonesia :)
